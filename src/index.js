@@ -11,7 +11,7 @@ import data from './modules/data';
 ReactDOM.render(
 	<div>
 		<Robo info={data} />
-		{/* <App /> */}
+		<App />
 	</div>,
 	document.getElementById('root')
 );
